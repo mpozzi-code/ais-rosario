@@ -1,6 +1,6 @@
 {
- "generado_utc": "2026-11-03T16:50:49Z",
- "mensajes_ultima_corrida": 10,
+ "generado_utc": "2026-11-03T17:48:58Z",
+ "mensajes_ultima_corrida": 16,
  "buques": [
   {
    "mmsi": "701006612",
@@ -806,20 +806,20 @@
    "velocidad": 0,
    "estado": "Navegando",
    "zona": "Paraná inferior",
-   "visto_utc": "2026-11-03T16:49:16Z"
+   "visto_utc": "2026-11-03T17:46:08Z"
   },
   {
    "mmsi": "701516000",
    "nombre": "GC-64 MAR DEL PLATA",
    "imo": "",
-   "destino": "",
+   "destino": "SAN ANTONIO",
    "eta_ais": "",
-   "lat": -34.41598,
-   "lon": -58.57946,
+   "lat": -34.41597,
+   "lon": -58.57944,
    "velocidad": 0,
    "estado": "Navegando",
    "zona": "Paraná inferior",
-   "visto_utc": "2026-11-03T16:47:03Z"
+   "visto_utc": "2026-11-03T17:46:33Z"
   },
   {
    "mmsi": "253599000",
@@ -970,12 +970,12 @@
    "imo": "",
    "destino": "",
    "eta_ais": "",
-   "lat": -33.6018,
-   "lon": -59.79228,
-   "velocidad": 15.3,
+   "lat": -34.26838,
+   "lon": -58.63183,
+   "velocidad": 9.4,
    "estado": "Navegando",
    "zona": "Paraná inferior",
-   "visto_utc": "2026-11-03T09:00:39Z"
+   "visto_utc": "2026-11-03T17:43:30Z"
   },
   {
    "mmsi": "701006312",
@@ -1212,6 +1212,19 @@
    "visto_utc": "2026-11-02T18:48:09Z"
   },
   {
+   "mmsi": "755002730",
+   "nombre": "PAPU SUR",
+   "imo": "",
+   "destino": "BS:AIRES_Y-ESC",
+   "eta_ais": "07/07 14:00 UTC",
+   "lat": -34.4528,
+   "lon": -58.40844,
+   "velocidad": 8,
+   "estado": "Amarrado",
+   "zona": "Paraná inferior",
+   "visto_utc": "2026-11-03T17:47:44Z"
+  },
+  {
    "mmsi": "701090000",
    "nombre": "PARANA I",
    "imo": "",
@@ -1433,19 +1446,6 @@
    "visto_utc": "2026-11-02T05:52:23Z"
   },
   {
-   "mmsi": "477267600",
-   "nombre": "TRANSCENDEN WISDOM",
-   "imo": "9900083",
-   "destino": "ZONA COMUN",
-   "eta_ais": "03/11 20:00 UTC",
-   "lat": -34.40621,
-   "lon": -58.43941,
-   "velocidad": 10.8,
-   "estado": "Navegando",
-   "zona": "Paraná inferior",
-   "visto_utc": "2026-11-03T16:42:43Z"
-  },
-  {
    "mmsi": "538007025",
    "nombre": "TS GOLF",
    "imo": "9719381",
@@ -1490,12 +1490,12 @@
    "imo": "",
    "destino": "",
    "eta_ais": "09/10 15:00 UTC",
-   "lat": -34.41805,
-   "lon": -58.57937,
+   "lat": -34.42151,
+   "lon": -58.58111,
    "velocidad": 0,
    "estado": "Navegando",
    "zona": "Paraná inferior",
-   "visto_utc": "2026-11-03T00:03:44Z"
+   "visto_utc": "2026-11-03T17:48:15Z"
   },
   {
    "mmsi": "701006344",
@@ -1672,12 +1672,12 @@
    "imo": "8827569",
    "destino": "PUERTO BUENOS AIRES",
    "eta_ais": "24/04 17:00 UTC",
-   "lat": -34.5739,
+   "lat": -34.57387,
    "lon": -58.37606,
    "velocidad": 0,
    "estado": "Amarrado",
    "zona": "Río de la Plata",
-   "visto_utc": "2026-11-03T14:02:42Z"
+   "visto_utc": "2026-11-03T17:47:22Z"
   },
   {
    "mmsi": "701000962",
@@ -1880,12 +1880,12 @@
    "imo": "9745689",
    "destino": "BUENOS AIRES",
    "eta_ais": "31/08 10:00 UTC",
-   "lat": -34.57397,
-   "lon": -58.37512,
+   "lat": -34.57404,
+   "lon": -58.37514,
    "velocidad": 0,
    "estado": "Amarrado",
    "zona": "Río de la Plata",
-   "visto_utc": "2026-11-03T14:58:29Z"
+   "visto_utc": "2026-11-03T17:40:29Z"
   },
   {
    "mmsi": "701001304",
@@ -2135,19 +2135,6 @@
    "visto_utc": "2026-11-02T00:45:33Z"
   },
   {
-   "mmsi": "710071000",
-   "nombre": "MARCOS DIAS",
-   "imo": "9070565",
-   "destino": "ROSARIO X RECALADA",
-   "eta_ais": "22/10 23:00 UTC",
-   "lat": -34.50581,
-   "lon": -58.36039,
-   "velocidad": 10.8,
-   "estado": "Navegando",
-   "zona": "Río de la Plata",
-   "visto_utc": "2026-10-31T17:11:49Z"
-  },
-  {
    "mmsi": "710001270",
    "nombre": "MERCOSUL SANTOS",
    "imo": "9356153",
@@ -2184,7 +2171,7 @@
    "velocidad": 0,
    "estado": "Amarrado",
    "zona": "Río de la Plata",
-   "visto_utc": "2026-11-02T05:56:43Z"
+   "visto_utc": "2026-11-03T17:44:44Z"
   },
   {
    "mmsi": "636015498",
@@ -2237,19 +2224,6 @@
    "estado": "Navegando",
    "zona": "Río de la Plata",
    "visto_utc": "2026-11-02T02:01:32Z"
-  },
-  {
-   "mmsi": "755002730",
-   "nombre": "PAPU SUR",
-   "imo": "",
-   "destino": "BS:AIRES_Y-ESC",
-   "eta_ais": "07/07 14:00 UTC",
-   "lat": -34.55789,
-   "lon": -58.29848,
-   "velocidad": 8.9,
-   "estado": "Amarrado",
-   "zona": "Río de la Plata",
-   "visto_utc": "2026-11-03T16:50:45Z"
   },
   {
    "mmsi": "701138000",
@@ -2367,6 +2341,19 @@
    "estado": "Navegando",
    "zona": "Río de la Plata",
    "visto_utc": "2026-11-03T15:42:42Z"
+  },
+  {
+   "mmsi": "477267600",
+   "nombre": "TRANSCENDEN WISDOM",
+   "imo": "9900083",
+   "destino": "ZONA COMUN",
+   "eta_ais": "03/11 20:00 UTC",
+   "lat": -34.55221,
+   "lon": -58.30524,
+   "velocidad": 10.4,
+   "estado": "Navegando",
+   "zona": "Río de la Plata",
+   "visto_utc": "2026-11-03T17:47:53Z"
   },
   {
    "mmsi": "701006735",

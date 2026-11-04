@@ -1,6 +1,6 @@
 {
- "generado_utc": "2026-11-04T07:00:56Z",
- "mensajes_ultima_corrida": 17,
+ "generado_utc": "2026-11-04T08:17:00Z",
+ "mensajes_ultima_corrida": 26,
  "buques": [
   {
    "mmsi": "701006612",
@@ -261,6 +261,19 @@
    "estado": "8",
    "zona": "Otra",
    "visto_utc": "2026-11-02T05:48:39Z"
+  },
+  {
+   "mmsi": "770576278",
+   "nombre": "PUNTA PEREIRA",
+   "imo": "",
+   "destino": "",
+   "eta_ais": "",
+   "lat": -34.15092,
+   "lon": -58.28601,
+   "velocidad": 6.6,
+   "estado": "Navegando",
+   "zona": "Otra",
+   "visto_utc": "2026-11-04T08:10:34Z"
   },
   {
    "mmsi": "755029000",
@@ -679,19 +692,6 @@
    "visto_utc": "2026-11-04T05:48:27Z"
   },
   {
-   "mmsi": "701006226",
-   "nombre": "DONA NINA",
-   "imo": "",
-   "destino": "BSAS 360 RP BSAS",
-   "eta_ais": "06/03 16:30 UTC",
-   "lat": -34.36275,
-   "lon": -58.46805,
-   "velocidad": 8.3,
-   "estado": "Amarrado",
-   "zona": "Paraná inferior",
-   "visto_utc": "2026-11-04T05:51:52Z"
-  },
-  {
    "mmsi": "538005137",
    "nombre": "DS MANATEE",
    "imo": "9255189",
@@ -710,25 +710,12 @@
    "imo": "",
    "destino": "",
    "eta_ais": "",
-   "lat": -34.42121,
-   "lon": -58.58076,
-   "velocidad": 0,
+   "lat": -34.42117,
+   "lon": -58.58075,
+   "velocidad": 0.1,
    "estado": "Navegando",
    "zona": "Paraná inferior",
-   "visto_utc": "2026-11-03T21:38:45Z"
-  },
-  {
-   "mmsi": "701906228",
-   "nombre": "ELSA B",
-   "imo": "",
-   "destino": "BS AS",
-   "eta_ais": "09/02 23:59 UTC",
-   "lat": -34.39614,
-   "lon": -58.44676,
-   "velocidad": 7.2,
-   "estado": "Amarrado",
-   "zona": "Paraná inferior",
-   "visto_utc": "2026-11-04T06:57:17Z"
+   "visto_utc": "2026-11-04T08:14:49Z"
   },
   {
    "mmsi": "701131000",
@@ -788,12 +775,12 @@
    "imo": "",
    "destino": "0",
    "eta_ais": "11/12 02:00 UTC",
-   "lat": -34.41623,
-   "lon": -58.57952,
+   "lat": -34.41625,
+   "lon": -58.57951,
    "velocidad": 0,
    "estado": "Navegando",
    "zona": "Paraná inferior",
-   "visto_utc": "2026-11-04T06:56:37Z"
+   "visto_utc": "2026-11-04T08:10:48Z"
   },
   {
    "mmsi": "701516000",
@@ -801,12 +788,12 @@
    "imo": "",
    "destino": "SAN ANTONIO",
    "eta_ais": "",
-   "lat": -34.41599,
-   "lon": -58.57945,
+   "lat": -34.41596,
+   "lon": -58.57944,
    "velocidad": 0,
    "estado": "Navegando",
    "zona": "Paraná inferior",
-   "visto_utc": "2026-11-04T07:00:42Z"
+   "visto_utc": "2026-11-04T08:16:32Z"
   },
   {
    "mmsi": "538011647",
@@ -1490,12 +1477,12 @@
    "imo": "",
    "destino": "A",
    "eta_ais": "05/12 00:00 UTC",
-   "lat": -34.3574,
-   "lon": -58.67935,
-   "velocidad": 7,
+   "lat": -34.42744,
+   "lon": -58.55887,
+   "velocidad": 1.3,
    "estado": "Sin dato",
    "zona": "Paraná inferior",
-   "visto_utc": "2026-11-03T23:18:22Z"
+   "visto_utc": "2026-11-04T08:16:31Z"
   },
   {
    "mmsi": "755002724",
@@ -1633,12 +1620,12 @@
    "imo": "",
    "destino": "",
    "eta_ais": "",
-   "lat": -34.42661,
-   "lon": -58.55571,
+   "lat": -34.39852,
+   "lon": -58.52109,
    "velocidad": 0,
    "estado": "Navegando",
    "zona": "Paraná inferior",
-   "visto_utc": "2026-11-04T05:54:31Z"
+   "visto_utc": "2026-11-04T08:16:35Z"
   },
   {
    "mmsi": "372405000",
@@ -1984,12 +1971,12 @@
    "imo": "7118909",
    "destino": "BSAS",
    "eta_ais": "02/11 02:00 UTC",
-   "lat": -34.57352,
-   "lon": -58.38333,
+   "lat": -34.5735,
+   "lon": -58.3833,
    "velocidad": 0,
    "estado": "Navegando",
    "zona": "Río de la Plata",
-   "visto_utc": "2026-11-04T06:59:43Z"
+   "visto_utc": "2026-11-04T08:08:44Z"
   },
   {
    "mmsi": "770576402",
@@ -2036,12 +2023,12 @@
    "imo": "9916678",
    "destino": "PTO COLONIA",
    "eta_ais": "10/09 16:00 UTC",
-   "lat": -34.59664,
-   "lon": -58.36808,
+   "lat": -34.59662,
+   "lon": -58.36807,
    "velocidad": 0,
    "estado": "Navegando",
    "zona": "Río de la Plata",
-   "visto_utc": "2026-11-04T00:57:04Z"
+   "visto_utc": "2026-11-04T08:15:44Z"
   },
   {
    "mmsi": "701125000",
@@ -2075,12 +2062,12 @@
    "imo": "",
    "destino": "",
    "eta_ais": "",
-   "lat": -34.57249,
-   "lon": -58.39156,
+   "lat": -34.57248,
+   "lon": -58.39157,
    "velocidad": 0,
    "estado": "Navegando",
    "zona": "Río de la Plata",
-   "visto_utc": "2026-11-04T06:57:26Z"
+   "visto_utc": "2026-11-04T08:13:46Z"
   },
   {
    "mmsi": "538011563",
@@ -2161,6 +2148,19 @@
    "visto_utc": "2026-11-03T11:47:47Z"
   },
   {
+   "mmsi": "701006226",
+   "nombre": "DONA NINA",
+   "imo": "",
+   "destino": "BSAS 360 RP BSAS",
+   "eta_ais": "06/03 16:30 UTC",
+   "lat": -34.60932,
+   "lon": -58.29108,
+   "velocidad": 7.1,
+   "estado": "Amarrado",
+   "zona": "Río de la Plata",
+   "visto_utc": "2026-11-04T08:11:22Z"
+  },
+  {
    "mmsi": "241375000",
    "nombre": "DRAFTVADER",
    "imo": "9736664",
@@ -2187,6 +2187,19 @@
    "visto_utc": "2026-11-02T17:50:44Z"
   },
   {
+   "mmsi": "701906228",
+   "nombre": "ELSA B",
+   "imo": "",
+   "destino": "BS AS",
+   "eta_ais": "09/02 23:59 UTC",
+   "lat": -34.52634,
+   "lon": -58.33889,
+   "velocidad": 7.9,
+   "estado": "Amarrado",
+   "zona": "Río de la Plata",
+   "visto_utc": "2026-11-04T08:14:27Z"
+  },
+  {
    "mmsi": "701000875",
    "nombre": "ESTHER 153",
    "imo": "",
@@ -2205,12 +2218,12 @@
    "imo": "9610028",
    "destino": "BSAS-MVD-BSAS",
    "eta_ais": "21/10 13:45 UTC",
-   "lat": -34.59517,
-   "lon": -58.36863,
+   "lat": -34.59503,
+   "lon": -58.36868,
    "velocidad": 0,
    "estado": "Sin gobierno",
    "zona": "Río de la Plata",
-   "visto_utc": "2026-11-04T05:50:32Z"
+   "visto_utc": "2026-11-04T08:16:52Z"
   },
   {
    "mmsi": "701523000",
@@ -2465,12 +2478,12 @@
    "imo": "",
    "destino": "",
    "eta_ais": "",
-   "lat": -34.50467,
-   "lon": -58.36224,
-   "velocidad": 11.9,
+   "lat": -34.66312,
+   "lon": -58.03079,
+   "velocidad": 11.1,
    "estado": "Navegando",
    "zona": "Río de la Plata",
-   "visto_utc": "2026-11-04T05:51:05Z"
+   "visto_utc": "2026-11-04T08:14:44Z"
   },
   {
    "mmsi": "701006706",
@@ -2543,12 +2556,12 @@
    "imo": "8703799",
    "destino": "PUERTOBUENOSAIRES",
    "eta_ais": "06/08 14:00 UTC",
-   "lat": -34.57379,
-   "lon": -58.37705,
+   "lat": -34.57375,
+   "lon": -58.37704,
    "velocidad": 0,
    "estado": "Navegando",
    "zona": "Río de la Plata",
-   "visto_utc": "2026-11-04T06:59:37Z"
+   "visto_utc": "2026-11-04T08:15:57Z"
   },
   {
    "mmsi": "210768000",
@@ -2601,19 +2614,6 @@
    "estado": "Navegando",
    "zona": "San Lorenzo / Timbúes",
    "visto_utc": "2026-11-03T14:08:03Z"
-  },
-  {
-   "mmsi": "701006760",
-   "nombre": "ALBERTO V",
-   "imo": "9813319",
-   "destino": "SANTA FE",
-   "eta_ais": "01/11 12:00 UTC",
-   "lat": -32.46254,
-   "lon": -60.73293,
-   "velocidad": 6.6,
-   "estado": "Navegando",
-   "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-01T07:53:03Z"
   },
   {
    "mmsi": "701006803",
@@ -3342,19 +3342,6 @@
    "estado": "Amarrado",
    "zona": "Villa Const. / San Nicolás",
    "visto_utc": "2026-11-03T06:56:21Z"
-  },
-  {
-   "mmsi": "720032000",
-   "nombre": "BARRANCA BERMEJA",
-   "imo": "",
-   "destino": "",
-   "eta_ais": "",
-   "lat": -33.31114,
-   "lon": -60.18988,
-   "velocidad": 6.8,
-   "estado": "Navegando",
-   "zona": "Villa Const. / San Nicolás",
-   "visto_utc": "2026-11-01T07:54:12Z"
   },
   {
    "mmsi": "701007072",

@@ -1,6 +1,6 @@
 {
- "generado_utc": "2026-11-06T18:47:50Z",
- "mensajes_ultima_corrida": 84,
+ "generado_utc": "2026-11-06T19:51:44Z",
+ "mensajes_ultima_corrida": 92,
  "buques": [
   {
    "mmsi": "538010668",
@@ -8,12 +8,12 @@
    "imo": "",
    "destino": "",
    "eta_ais": "",
-   "lat": -34.16264,
-   "lon": -58.2451,
-   "velocidad": 11.3,
+   "lat": -33.13168,
+   "lon": -60.49365,
+   "velocidad": 6.6,
    "estado": "Navegando",
    "zona": "Otra",
-   "visto_utc": "2026-11-06T04:51:32Z"
+   "visto_utc": "2026-11-06T19:51:32Z"
   },
   {
    "mmsi": "701006760",
@@ -287,19 +287,6 @@
    "estado": "Navegando",
    "zona": "Paraná inferior",
    "visto_utc": "2026-11-05T08:19:03Z"
-  },
-  {
-   "mmsi": "636023489",
-   "nombre": "AOMARI",
-   "imo": "",
-   "destino": "",
-   "eta_ais": "",
-   "lat": -34.44301,
-   "lon": -58.41459,
-   "velocidad": 10.3,
-   "estado": "Navegando",
-   "zona": "Paraná inferior",
-   "visto_utc": "2026-11-06T18:42:51Z"
   },
   {
    "mmsi": "419002034",
@@ -801,12 +788,12 @@
    "imo": "",
    "destino": "KM366",
    "eta_ais": "",
-   "lat": -34.459,
-   "lon": -58.40299,
-   "velocidad": 9.8,
+   "lat": -34.31172,
+   "lon": -58.4994,
+   "velocidad": 8.4,
    "estado": "Navegando",
    "zona": "Paraná inferior",
-   "visto_utc": "2026-11-06T18:42:47Z"
+   "visto_utc": "2026-11-06T19:50:36Z"
   },
   {
    "mmsi": "356276000",
@@ -851,14 +838,14 @@
    "mmsi": "538009398",
    "nombre": "IPPOKRATIS",
    "imo": "9585663",
-   "destino": "ARROS",
-   "eta_ais": "03/10 23:00 UTC",
-   "lat": -33.49396,
-   "lon": -59.96785,
-   "velocidad": 11.4,
+   "destino": "ZONA COMUN",
+   "eta_ais": "07/11 00:30 UTC",
+   "lat": -34.30913,
+   "lon": -58.50533,
+   "velocidad": 9.8,
    "estado": "Navegando",
    "zona": "Paraná inferior",
-   "visto_utc": "2026-11-06T09:27:58Z"
+   "visto_utc": "2026-11-06T19:50:32Z"
   },
   {
    "mmsi": "701006412",
@@ -1490,12 +1477,12 @@
    "imo": "9393149",
    "destino": "ARROS",
    "eta_ais": "05/11 23:00 UTC",
-   "lat": -33.01019,
-   "lon": -60.5959,
+   "lat": -33.01018,
+   "lon": -60.59594,
    "velocidad": 0.1,
    "estado": "Fondeado",
    "zona": "Rosario",
-   "visto_utc": "2026-11-06T18:39:18Z"
+   "visto_utc": "2026-11-06T19:45:18Z"
   },
   {
    "mmsi": "755025000",
@@ -1574,6 +1561,19 @@
    "estado": "Amarrado",
    "zona": "Rosario",
    "visto_utc": "2026-11-06T10:28:53Z"
+  },
+  {
+   "mmsi": "755004326",
+   "nombre": "OLIMPO",
+   "imo": "",
+   "destino": "SAN LORENZO ARG",
+   "eta_ais": "25/10 17:00 UTC",
+   "lat": -32.92379,
+   "lon": -60.65077,
+   "velocidad": 2.4,
+   "estado": "Navegando",
+   "zona": "Rosario",
+   "visto_utc": "2026-11-06T19:48:36Z"
   },
   {
    "mmsi": "701006856",
@@ -1724,12 +1724,25 @@
    "imo": "9389928",
    "destino": "TANDANOR BS AS",
    "eta_ais": "19/09 23:30 UTC",
-   "lat": -34.62687,
-   "lon": -58.34364,
+   "lat": -34.62685,
+   "lon": -58.34368,
    "velocidad": 0,
    "estado": "Navegando",
    "zona": "Río de la Plata",
-   "visto_utc": "2026-11-06T17:43:58Z"
+   "visto_utc": "2026-11-06T19:46:46Z"
+  },
+  {
+   "mmsi": "636023489",
+   "nombre": "AOMARI",
+   "imo": "",
+   "destino": "",
+   "eta_ais": "",
+   "lat": -34.58083,
+   "lon": -58.26985,
+   "velocidad": 9.6,
+   "estado": "Navegando",
+   "zona": "Río de la Plata",
+   "visto_utc": "2026-11-06T19:50:40Z"
   },
   {
    "mmsi": "701835000",
@@ -1750,12 +1763,12 @@
    "imo": "8301785",
    "destino": "BUENOS AIRES",
    "eta_ais": "20/02 18:00 UTC",
-   "lat": -34.62937,
+   "lat": -34.62938,
    "lon": -58.3433,
    "velocidad": 0,
    "estado": "Amarrado",
    "zona": "Río de la Plata",
-   "visto_utc": "2026-11-06T14:45:41Z"
+   "visto_utc": "2026-11-06T19:48:44Z"
   },
   {
    "mmsi": "538004785",
@@ -2010,12 +2023,12 @@
    "imo": "1098274",
    "destino": "TANDANOR BSAS",
    "eta_ais": "17/09 15:00 UTC",
-   "lat": -34.62767,
-   "lon": -58.34259,
+   "lat": -34.62774,
+   "lon": -58.34267,
    "velocidad": 0,
    "estado": "Navegando",
    "zona": "Río de la Plata",
-   "visto_utc": "2026-11-06T17:40:58Z"
+   "visto_utc": "2026-11-06T19:49:19Z"
   },
   {
    "mmsi": "701123000",
@@ -2068,19 +2081,6 @@
    "estado": "Sin gobierno",
    "zona": "Río de la Plata",
    "visto_utc": "2026-11-06T17:41:47Z"
-  },
-  {
-   "mmsi": "701507000",
-   "nombre": "GC73 CABO CORRIENTES",
-   "imo": "",
-   "destino": "",
-   "eta_ais": "",
-   "lat": -34.57391,
-   "lon": -58.37927,
-   "velocidad": 0,
-   "estado": "Amarrado",
-   "zona": "Río de la Plata",
-   "visto_utc": "2026-11-03T19:45:45Z"
   },
   {
    "mmsi": "755167000",
@@ -2218,12 +2218,12 @@
    "imo": "9697002",
    "destino": "ARBUE",
    "eta_ais": "07/11 12:00 UTC",
-   "lat": -34.58422,
-   "lon": -58.36356,
+   "lat": -34.58424,
+   "lon": -58.36352,
    "velocidad": 0,
    "estado": "Amarrado",
    "zona": "Río de la Plata",
-   "visto_utc": "2026-11-06T16:47:42Z"
+   "visto_utc": "2026-11-06T19:47:41Z"
   },
   {
    "mmsi": "314527000",
@@ -2310,11 +2310,11 @@
    "destino": "ARBUE>UYMVD",
    "eta_ais": "07/11 19:00 UTC",
    "lat": -34.58052,
-   "lon": -58.36713,
+   "lon": -58.36715,
    "velocidad": 0,
    "estado": "Amarrado",
    "zona": "Río de la Plata",
-   "visto_utc": "2026-11-06T17:44:13Z"
+   "visto_utc": "2026-11-06T19:50:12Z"
   },
   {
    "mmsi": "355146000",
@@ -2335,12 +2335,12 @@
    "imo": "9119385",
    "destino": "BS COL BS",
    "eta_ais": "13/04 00:30 UTC",
-   "lat": -34.59608,
-   "lon": -58.3646,
+   "lat": -34.59614,
+   "lon": -58.36463,
    "velocidad": 0.1,
    "estado": "Navegando",
    "zona": "Río de la Plata",
-   "visto_utc": "2026-11-06T17:40:24Z"
+   "visto_utc": "2026-11-06T19:48:34Z"
   },
   {
    "mmsi": "563242400",
@@ -2400,12 +2400,12 @@
    "imo": "9373292",
    "destino": "AR BUE",
    "eta_ais": "06/05 10:00 UTC",
-   "lat": -34.59727,
+   "lat": -34.59723,
    "lon": -58.36535,
    "velocidad": 0,
    "estado": "Navegando",
    "zona": "Río de la Plata",
-   "visto_utc": "2026-11-06T15:41:38Z"
+   "visto_utc": "2026-11-06T19:51:31Z"
   },
   {
    "mmsi": "248923000",
@@ -2478,12 +2478,12 @@
    "imo": "8703799",
    "destino": "PUERTOBUENOSAIRES",
    "eta_ais": "06/08 14:00 UTC",
-   "lat": -34.57379,
-   "lon": -58.37712,
+   "lat": -34.57377,
+   "lon": -58.37706,
    "velocidad": 0,
    "estado": "Navegando",
    "zona": "Río de la Plata",
-   "visto_utc": "2026-11-06T18:39:59Z"
+   "visto_utc": "2026-11-06T19:47:20Z"
   },
   {
    "mmsi": "255915880",
@@ -2504,12 +2504,12 @@
    "imo": "9465368",
    "destino": "ARRAM>ARSLO",
    "eta_ais": "29/10 22:00 UTC",
-   "lat": -32.7365,
-   "lon": -60.72642,
+   "lat": -32.73653,
+   "lon": -60.72645,
    "velocidad": 0,
    "estado": "Amarrado",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-06T18:40:14Z"
+   "visto_utc": "2026-11-06T19:49:56Z"
   },
   {
    "mmsi": "701001024",
@@ -2530,12 +2530,12 @@
    "imo": "",
    "destino": "",
    "eta_ais": "",
-   "lat": -32.82151,
-   "lon": -60.69841,
-   "velocidad": 9.5,
-   "estado": "Navegando",
+   "lat": -32.62396,
+   "lon": -60.7484,
+   "velocidad": 0.1,
+   "estado": "Fondeado",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-06T17:45:46Z"
+   "visto_utc": "2026-11-06T19:45:42Z"
   },
   {
    "mmsi": "701006803",
@@ -2543,12 +2543,12 @@
    "imo": "",
    "destino": "SAN LORENZO",
    "eta_ais": "25/05 02:00 UTC",
-   "lat": -32.64011,
+   "lat": -32.64012,
    "lon": -60.72297,
    "velocidad": 0,
    "estado": "Navegando",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-06T18:41:14Z"
+   "visto_utc": "2026-11-06T19:50:04Z"
   },
   {
    "mmsi": "538009120",
@@ -2583,11 +2583,11 @@
    "destino": "ARRCA",
    "eta_ais": "31/10 15:30 UTC",
    "lat": -32.76627,
-   "lon": -60.71704,
+   "lon": -60.71711,
    "velocidad": 0,
    "estado": "Fondeado",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-06T18:47:00Z"
+   "visto_utc": "2026-11-06T19:47:06Z"
   },
   {
    "mmsi": "248791000",
@@ -2621,12 +2621,12 @@
    "imo": "9941544",
    "destino": "ARSLO",
    "eta_ais": "01/11 12:00 UTC",
-   "lat": -32.63507,
-   "lon": -60.74346,
-   "velocidad": 0.1,
+   "lat": -32.63508,
+   "lon": -60.74345,
+   "velocidad": 0,
    "estado": "Fondeado",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-06T17:41:24Z"
+   "visto_utc": "2026-11-06T19:44:24Z"
   },
   {
    "mmsi": "636024188",
@@ -2635,11 +2635,11 @@
    "destino": "SGSIN>ARSLO",
    "eta_ais": "04/11 12:00 UTC",
    "lat": -32.60105,
-   "lon": -60.7652,
+   "lon": -60.76522,
    "velocidad": 0,
    "estado": "Amarrado",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-06T16:39:46Z"
+   "visto_utc": "2026-11-06T19:48:49Z"
   },
   {
    "mmsi": "563188400",
@@ -2647,12 +2647,12 @@
    "imo": "9952165",
    "destino": "SAN LORENZO",
    "eta_ais": "06/11 03:52 UTC",
-   "lat": -32.75713,
-   "lon": -60.72065,
-   "velocidad": 0.2,
+   "lat": -32.75715,
+   "lon": -60.72058,
+   "velocidad": 0.1,
    "estado": "Fondeado",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-06T18:38:14Z"
+   "visto_utc": "2026-11-06T19:50:14Z"
   },
   {
    "mmsi": "701006675",
@@ -2660,12 +2660,12 @@
    "imo": "",
    "destino": "SAN LORENZO",
    "eta_ais": "",
-   "lat": -32.57679,
-   "lon": -60.74144,
-   "velocidad": 0.3,
+   "lat": -32.63177,
+   "lon": -60.74643,
+   "velocidad": 11.1,
    "estado": "Amarrado",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-06T18:43:45Z"
+   "visto_utc": "2026-11-06T19:49:55Z"
   },
   {
    "mmsi": "755088000",
@@ -2673,12 +2673,12 @@
    "imo": "",
    "destino": "",
    "eta_ais": "",
-   "lat": -32.54513,
-   "lon": -60.75784,
-   "velocidad": 0.9,
+   "lat": -32.5461,
+   "lon": -60.75843,
+   "velocidad": 0.2,
    "estado": "Navegando",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-06T18:46:55Z"
+   "visto_utc": "2026-11-06T19:44:44Z"
   },
   {
    "mmsi": "701006899",
@@ -2686,12 +2686,12 @@
    "imo": "",
    "destino": "CB",
    "eta_ais": "07/10 09:00 UTC",
-   "lat": -32.80476,
-   "lon": -60.70584,
-   "velocidad": 0.1,
+   "lat": -32.80683,
+   "lon": -60.70595,
+   "velocidad": 0,
    "estado": "Navegando",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-06T18:47:36Z"
+   "visto_utc": "2026-11-06T19:48:26Z"
   },
   {
    "mmsi": "548704000",
@@ -2699,12 +2699,12 @@
    "imo": "9872963",
    "destino": "ARSLO",
    "eta_ais": "05/11 18:00 UTC",
-   "lat": -32.77255,
-   "lon": -60.72045,
+   "lat": -32.77252,
+   "lon": -60.72052,
    "velocidad": 0,
    "estado": "Amarrado",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-06T18:40:07Z"
+   "visto_utc": "2026-11-06T19:50:47Z"
   },
   {
    "mmsi": "538011647",
@@ -2738,12 +2738,12 @@
    "imo": "1018860",
    "destino": "AR SLO",
    "eta_ais": "03/11 19:59 UTC",
-   "lat": -32.72114,
-   "lon": -60.72565,
+   "lat": -32.72115,
+   "lon": -60.72563,
    "velocidad": 0,
    "estado": "Amarrado",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-06T18:42:59Z"
+   "visto_utc": "2026-11-06T19:42:05Z"
   },
   {
    "mmsi": "701001423",
@@ -2751,12 +2751,12 @@
    "imo": "8646135",
    "destino": "SAN LORENZO",
    "eta_ais": "03/11 18:00 UTC",
-   "lat": -32.58438,
-   "lon": -60.77993,
+   "lat": -32.58437,
+   "lon": -60.77998,
    "velocidad": 0,
    "estado": "Navegando",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-06T18:42:59Z"
+   "visto_utc": "2026-11-06T19:44:29Z"
   },
   {
    "mmsi": "701006740",
@@ -2829,12 +2829,12 @@
    "imo": "",
    "destino": "NUEVA PALMIRA",
    "eta_ais": "04/11 18:00 UTC",
-   "lat": -32.54334,
-   "lon": -60.79767,
-   "velocidad": 3.9,
+   "lat": -32.55412,
+   "lon": -60.79387,
+   "velocidad": 4,
    "estado": "Fondeado",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-06T16:43:21Z"
+   "visto_utc": "2026-11-06T19:49:19Z"
   },
   {
    "mmsi": "701001114",
@@ -2868,12 +2868,12 @@
    "imo": "9450844",
    "destino": "RECALADA",
    "eta_ais": "01/11 15:00 UTC",
-   "lat": -32.65764,
-   "lon": -60.73449,
+   "lat": -32.65756,
+   "lon": -60.73441,
    "velocidad": 0,
    "estado": "Amarrado",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-06T18:46:23Z"
+   "visto_utc": "2026-11-06T19:49:25Z"
   },
   {
    "mmsi": "636023992",
@@ -2881,12 +2881,12 @@
    "imo": "1021934",
    "destino": "ARSLO",
    "eta_ais": "05/11 23:00 UTC",
-   "lat": -32.62868,
-   "lon": -60.74595,
+   "lat": -32.62873,
+   "lon": -60.74592,
    "velocidad": 0,
    "estado": "Fondeado",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-06T18:42:39Z"
+   "visto_utc": "2026-11-06T19:51:40Z"
   },
   {
    "mmsi": "701006268",
@@ -2907,12 +2907,12 @@
    "imo": "9474230",
    "destino": "AR SNS",
    "eta_ais": "22/10 14:00 UTC",
-   "lat": -32.66991,
+   "lat": -32.66992,
    "lon": -60.72694,
    "velocidad": 0,
    "estado": "Amarrado",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-06T18:43:55Z"
+   "visto_utc": "2026-11-06T19:49:55Z"
   },
   {
    "mmsi": "701170000",
@@ -2933,12 +2933,12 @@
    "imo": "9210919",
    "destino": "ARSLO",
    "eta_ais": "06/11 03:01 UTC",
-   "lat": -32.6589,
-   "lon": -60.72641,
+   "lat": -32.65891,
+   "lon": -60.72644,
    "velocidad": 0.1,
    "estado": "Fondeado",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-06T17:43:25Z"
+   "visto_utc": "2026-11-06T19:43:28Z"
   },
   {
    "mmsi": "667002087",
@@ -2946,12 +2946,12 @@
    "imo": "9082623",
    "destino": "ARSLO",
    "eta_ais": "07/11 15:00 UTC",
-   "lat": -32.71835,
-   "lon": -60.7195,
-   "velocidad": 9.7,
-   "estado": "Navegando",
+   "lat": -32.67494,
+   "lon": -60.71498,
+   "velocidad": 0,
+   "estado": "Fondeado",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-06T18:42:39Z"
+   "visto_utc": "2026-11-06T19:50:12Z"
   },
   {
    "mmsi": "701001307",
@@ -2959,12 +2959,12 @@
    "imo": "",
    "destino": "SAN LORENZO",
    "eta_ais": "28/07 06:00 UTC",
-   "lat": -32.66745,
-   "lon": -60.72684,
-   "velocidad": 8.1,
+   "lat": -32.67759,
+   "lon": -60.7127,
+   "velocidad": 15.4,
    "estado": "Amarrado",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-06T18:47:14Z"
+   "visto_utc": "2026-11-06T19:51:13Z"
   },
   {
    "mmsi": "701006443",
@@ -2972,12 +2972,12 @@
    "imo": "",
    "destino": "SAN LORENZ0",
    "eta_ais": "09/03 06:00 UTC",
-   "lat": -32.65052,
-   "lon": -60.72677,
+   "lat": -32.6505,
+   "lon": -60.72678,
    "velocidad": 0,
    "estado": "Navegando",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-06T18:47:05Z"
+   "visto_utc": "2026-11-06T19:49:44Z"
   },
   {
    "mmsi": "636021182",
@@ -3011,12 +3011,12 @@
    "imo": "9494747",
    "destino": "ARSLO",
    "eta_ais": "27/10 18:00 UTC",
-   "lat": -32.7176,
+   "lat": -32.71758,
    "lon": -60.72515,
    "velocidad": 0,
    "estado": "Amarrado",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-06T18:44:13Z"
+   "visto_utc": "2026-11-06T19:46:09Z"
   },
   {
    "mmsi": "701006466",
@@ -3024,12 +3024,12 @@
    "imo": "",
    "destino": "SAN LORENZO",
    "eta_ais": "28/10 21:00 UTC",
-   "lat": -32.56237,
-   "lon": -60.74755,
-   "velocidad": 3.6,
+   "lat": -32.53788,
+   "lon": -60.76451,
+   "velocidad": 0.1,
    "estado": "Navegando",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-06T18:41:23Z"
+   "visto_utc": "2026-11-06T19:48:44Z"
   },
   {
    "mmsi": "249388000",
@@ -3037,12 +3037,12 @@
    "imo": "9473690",
    "destino": "AR SLO",
    "eta_ais": "29/10 12:00 UTC",
-   "lat": -32.77311,
-   "lon": -60.71519,
-   "velocidad": 0.1,
+   "lat": -32.77309,
+   "lon": -60.71515,
+   "velocidad": 0,
    "estado": "Fondeado",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-06T17:39:38Z"
+   "visto_utc": "2026-11-06T19:50:30Z"
   },
   {
    "mmsi": "701006221",
@@ -3050,12 +3050,12 @@
    "imo": "",
    "destino": "SAN LORENZO",
    "eta_ais": "04/11 19:55 UTC",
-   "lat": -32.64126,
-   "lon": -60.72389,
+   "lat": -32.64123,
+   "lon": -60.72387,
    "velocidad": 0,
    "estado": "Navegando",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-06T18:45:14Z"
+   "visto_utc": "2026-11-06T19:46:54Z"
   },
   {
    "mmsi": "538005231",
@@ -3076,12 +3076,12 @@
    "imo": "9310276",
    "destino": "AR SLO",
    "eta_ais": "02/11 21:00 UTC",
-   "lat": -32.65409,
-   "lon": -60.7374,
-   "velocidad": 0,
-   "estado": "Amarrado",
+   "lat": -32.82621,
+   "lon": -60.69764,
+   "velocidad": 11.8,
+   "estado": "Navegando",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-06T10:27:16Z"
+   "visto_utc": "2026-11-06T19:44:27Z"
   },
   {
    "mmsi": "755002730",
@@ -3141,12 +3141,12 @@
    "imo": "",
    "destino": "SANLORENZO",
    "eta_ais": "11/03 23:45 UTC",
-   "lat": -32.6382,
-   "lon": -60.72184,
+   "lat": -32.63817,
+   "lon": -60.7218,
    "velocidad": 0,
    "estado": "Navegando",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-06T18:46:35Z"
+   "visto_utc": "2026-11-06T19:47:35Z"
   },
   {
    "mmsi": "755044000",
@@ -3154,12 +3154,12 @@
    "imo": "",
    "destino": "ASUNCION PY",
    "eta_ais": "01/09 07:00 UTC",
-   "lat": -32.71274,
-   "lon": -60.7142,
-   "velocidad": 7.1,
+   "lat": -32.61379,
+   "lon": -60.75513,
+   "velocidad": 6.4,
    "estado": "Varado",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-06T18:46:48Z"
+   "visto_utc": "2026-11-06T19:48:27Z"
   },
   {
    "mmsi": "268263303",
@@ -3167,12 +3167,12 @@
    "imo": "9205885",
    "destino": "ARSLO",
    "eta_ais": "01/11 18:00 UTC",
-   "lat": -32.62514,
-   "lon": -60.75347,
+   "lat": -32.62525,
+   "lon": -60.75338,
    "velocidad": 0,
    "estado": "Amarrado",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-06T17:44:47Z"
+   "visto_utc": "2026-11-06T19:50:47Z"
   },
   {
    "mmsi": "701006245",
@@ -3193,12 +3193,12 @@
    "imo": "9110315",
    "destino": "AR SLO",
    "eta_ais": "03/11 15:00 UTC",
-   "lat": -32.60422,
-   "lon": -60.76212,
+   "lat": -32.60423,
+   "lon": -60.7621,
    "velocidad": 0,
    "estado": "Amarrado",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-06T18:44:08Z"
+   "visto_utc": "2026-11-06T19:50:11Z"
   },
   {
    "mmsi": "538009112",
@@ -3219,12 +3219,12 @@
    "imo": "9957593",
    "destino": "AR SLO",
    "eta_ais": "31/10 13:00 UTC",
-   "lat": -32.70886,
-   "lon": -60.72502,
+   "lat": -32.70887,
+   "lon": -60.72504,
    "velocidad": 0,
    "estado": "Amarrado",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-06T18:40:29Z"
+   "visto_utc": "2026-11-06T19:49:29Z"
   },
   {
    "mmsi": "755703668",
@@ -3232,12 +3232,12 @@
    "imo": "",
    "destino": "ASUNCION",
    "eta_ais": "18/09 06:00 UTC",
-   "lat": -32.55548,
-   "lon": -60.79117,
-   "velocidad": 0,
+   "lat": -32.58292,
+   "lon": -60.77391,
+   "velocidad": 6,
    "estado": "Navegando",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-06T18:45:50Z"
+   "visto_utc": "2026-11-06T19:50:27Z"
   },
   {
    "mmsi": "538007973",
@@ -3271,12 +3271,12 @@
    "imo": "800806",
    "destino": "ARROYO SECO",
    "eta_ais": "18/11 23:00 UTC",
-   "lat": -32.69738,
-   "lon": -60.7235,
+   "lat": -32.69735,
+   "lon": -60.72347,
    "velocidad": 0,
    "estado": "8",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-06T18:42:08Z"
+   "visto_utc": "2026-11-06T19:46:58Z"
   },
   {
    "mmsi": "372405000",
@@ -3310,12 +3310,12 @@
    "imo": "9708928",
    "destino": "AR SLO",
    "eta_ais": "08/11 13:30 UTC",
-   "lat": -32.9395,
-   "lon": -60.62671,
+   "lat": -32.93945,
+   "lon": -60.62666,
    "velocidad": 0,
    "estado": "Fondeado",
    "zona": "TPR",
-   "visto_utc": "2026-11-06T16:42:42Z"
+   "visto_utc": "2026-11-06T19:48:49Z"
   },
   {
    "mmsi": "701001404",
@@ -3472,19 +3472,6 @@
    "estado": "Amarrado",
    "zona": "Villa Const. / San Nicolás",
    "visto_utc": "2026-11-06T05:46:24Z"
-  },
-  {
-   "mmsi": "755004326",
-   "nombre": "OLIMPO",
-   "imo": "",
-   "destino": "SAN LORENZO ARG",
-   "eta_ais": "25/10 17:00 UTC",
-   "lat": -33.1661,
-   "lon": -60.38026,
-   "velocidad": 2.2,
-   "estado": "Navegando",
-   "zona": "Villa Const. / San Nicolás",
-   "visto_utc": "2026-11-06T10:35:17Z"
   },
   {
    "mmsi": "701006866",

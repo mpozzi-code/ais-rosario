@@ -1,6 +1,6 @@
 {
- "generado_utc": "2026-11-13T11:30:22Z",
- "mensajes_ultima_corrida": 1,
+ "generado_utc": "2026-11-13T12:28:14Z",
+ "mensajes_ultima_corrida": 8,
  "buques": [
   {
    "mmsi": "701006760",
@@ -742,6 +742,19 @@
    "estado": "Navegando",
    "zona": "Río de la Plata",
    "visto_utc": "2026-11-11T03:43:08Z"
+  },
+  {
+   "mmsi": "253399000",
+   "nombre": "",
+   "imo": "",
+   "destino": "",
+   "eta_ais": "",
+   "lat": -34.57073,
+   "lon": -58.34654,
+   "velocidad": 5.2,
+   "estado": "Maniobra restringida",
+   "zona": "Río de la Plata",
+   "visto_utc": "2026-11-13T12:26:52Z"
   },
   {
    "mmsi": "701000798",
@@ -1576,19 +1589,6 @@
    "visto_utc": "2026-11-11T01:53:32Z"
   },
   {
-   "mmsi": "667002375",
-   "nombre": "GOLDEN MALAK",
-   "imo": "9578995",
-   "destino": "ARSLO",
-   "eta_ais": "04/11 19:00 UTC",
-   "lat": -34.56165,
-   "lon": -58.29356,
-   "velocidad": 10.9,
-   "estado": "Navegando",
-   "zona": "Río de la Plata",
-   "visto_utc": "2026-11-10T11:48:47Z"
-  },
-  {
    "mmsi": "352005601",
    "nombre": "GOLDEN THETIS",
    "imo": "",
@@ -2310,11 +2310,11 @@
    "destino": "SAN LORENZO",
    "eta_ais": "25/05 02:00 UTC",
    "lat": -32.64012,
-   "lon": -60.72296,
+   "lon": -60.72295,
    "velocidad": 0,
    "estado": "Navegando",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-12T12:24:45Z"
+   "visto_utc": "2026-11-13T12:28:06Z"
   },
   {
    "mmsi": "636024188",
@@ -2603,17 +2603,30 @@
    "visto_utc": "2026-11-12T12:24:36Z"
   },
   {
+   "mmsi": "229255000",
+   "nombre": "KOM",
+   "imo": "9905708",
+   "destino": "ARSLO",
+   "eta_ais": "13/11 09:00 UTC",
+   "lat": -32.63789,
+   "lon": -60.74848,
+   "velocidad": 0,
+   "estado": "Amarrado",
+   "zona": "San Lorenzo / Timbúes",
+   "visto_utc": "2026-11-13T12:28:01Z"
+  },
+  {
    "mmsi": "636092666",
    "nombre": "LETIZIA",
    "imo": "9731717",
    "destino": "AR SLO",
    "eta_ais": "11/11 10:00 UTC",
-   "lat": -32.66351,
-   "lon": -60.7216,
-   "velocidad": 0,
+   "lat": -32.66358,
+   "lon": -60.72186,
+   "velocidad": 0.2,
    "estado": "Fondeado",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-12T12:19:40Z"
+   "visto_utc": "2026-11-13T12:25:48Z"
   },
   {
    "mmsi": "636022355",
@@ -2621,12 +2634,12 @@
    "imo": "9571272",
    "destino": "SAN LORENZO",
    "eta_ais": "11/11 12:00 UTC",
-   "lat": -32.6577,
-   "lon": -60.72698,
-   "velocidad": 0.1,
-   "estado": "Fondeado",
+   "lat": -32.58439,
+   "lon": -60.7798,
+   "velocidad": 0,
+   "estado": "Amarrado",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-12T12:24:00Z"
+   "visto_utc": "2026-11-13T12:25:42Z"
   },
   {
    "mmsi": "352003982",
@@ -2837,6 +2850,19 @@
    "visto_utc": "2026-11-12T12:25:37Z"
   },
   {
+   "mmsi": "701006413",
+   "nombre": "PUNTA  LOYOLA",
+   "imo": "",
+   "destino": "",
+   "eta_ais": "",
+   "lat": -32.76407,
+   "lon": -60.71894,
+   "velocidad": 0,
+   "estado": "Fondeado",
+   "zona": "San Lorenzo / Timbúes",
+   "visto_utc": "2026-11-13T12:27:59Z"
+  },
+  {
    "mmsi": "755020000",
    "nombre": "R/E CAVALIER IX",
    "imo": "",
@@ -2894,12 +2920,12 @@
    "imo": "9878357",
    "destino": "\"GH TKD>AR SLO\"",
    "eta_ais": "03/11 22:00 UTC",
-   "lat": -32.76846,
-   "lon": -60.71596,
+   "lat": -32.76852,
+   "lon": -60.71614,
    "velocidad": 0,
    "estado": "Fondeado",
    "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-12T12:26:15Z"
+   "visto_utc": "2026-11-13T12:26:24Z"
   },
   {
    "mmsi": "564415000",
@@ -3134,19 +3160,6 @@
    "estado": "Navegando",
    "zona": "Villa Const. / San Nicolás",
    "visto_utc": "2026-11-12T10:33:12Z"
-  },
-  {
-   "mmsi": "229255000",
-   "nombre": "KOM",
-   "imo": "9905708",
-   "destino": "ARSNS",
-   "eta_ais": "11/11 09:00 UTC",
-   "lat": -33.34915,
-   "lon": -60.17848,
-   "velocidad": 0,
-   "estado": "Amarrado",
-   "zona": "Villa Const. / San Nicolás",
-   "visto_utc": "2026-11-12T11:26:03Z"
   },
   {
    "mmsi": "538009718",

@@ -1,6 +1,6 @@
 {
- "generado_utc": "2026-11-14T09:42:34Z",
- "mensajes_ultima_corrida": 1,
+ "generado_utc": "2026-11-14T10:39:12Z",
+ "mensajes_ultima_corrida": 6,
  "buques": [
   {
    "mmsi": "701006760",
@@ -42,19 +42,6 @@
    "visto_utc": "2026-11-11T12:27:30Z"
   },
   {
-   "mmsi": "720039000",
-   "nombre": "PUERTO SALGAR",
-   "imo": "",
-   "destino": "ASUNCION PARAGUAYY",
-   "eta_ais": "02/09 23:30 UTC",
-   "lat": -32.43513,
-   "lon": -60.72333,
-   "velocidad": 3.2,
-   "estado": "Amarrado",
-   "zona": "Otra",
-   "visto_utc": "2026-11-11T10:32:34Z"
-  },
-  {
    "mmsi": "770576283",
    "nombre": "PUNTA DIAMANTE",
    "imo": "9646235",
@@ -66,19 +53,6 @@
    "estado": "Navegando",
    "zona": "Otra",
    "visto_utc": "2026-11-11T11:29:44Z"
-  },
-  {
-   "mmsi": "770576302",
-   "nombre": "PUNTA SAYAGO",
-   "imo": "",
-   "destino": "",
-   "eta_ais": "",
-   "lat": -34.22332,
-   "lon": -58.0744,
-   "velocidad": 0,
-   "estado": "Navegando",
-   "zona": "Otra",
-   "visto_utc": "2026-11-11T10:24:31Z"
   },
   {
    "mmsi": "755004432",
@@ -196,19 +170,6 @@
    "estado": "Navegando",
    "zona": "Paraná inferior",
    "visto_utc": "2026-11-12T10:34:32Z"
-  },
-  {
-   "mmsi": "701006301",
-   "nombre": "INDEPENDENCIA VI",
-   "imo": "",
-   "destino": "CHANAMINI",
-   "eta_ais": "16/10 10:00 UTC",
-   "lat": -34.39306,
-   "lon": -58.61347,
-   "velocidad": 12.2,
-   "estado": "Fondeado",
-   "zona": "Paraná inferior",
-   "visto_utc": "2026-11-11T10:31:42Z"
   },
   {
    "mmsi": "352006849",
@@ -419,19 +380,6 @@
    "visto_utc": "2026-11-11T11:27:51Z"
   },
   {
-   "mmsi": "701006355",
-   "nombre": "ZELANDIA",
-   "imo": "",
-   "destino": "DOCK,SUD",
-   "eta_ais": "13/02 00:00 UTC",
-   "lat": -34.28851,
-   "lon": -58.56254,
-   "velocidad": 7.6,
-   "estado": "Amarrado",
-   "zona": "Paraná inferior",
-   "visto_utc": "2026-11-11T10:33:07Z"
-  },
-  {
    "mmsi": "256622000",
    "nombre": "AP DUBROVNIK",
    "imo": "9952660",
@@ -554,12 +502,12 @@
    "imo": "8827569",
    "destino": "PUERTO BUENOS AIRES",
    "eta_ais": "24/04 17:00 UTC",
-   "lat": -34.5739,
-   "lon": -58.37602,
+   "lat": -34.57392,
+   "lon": -58.37607,
    "velocidad": 0,
    "estado": "Amarrado",
    "zona": "Río de la Plata",
-   "visto_utc": "2026-11-14T09:34:04Z"
+   "visto_utc": "2026-11-14T10:34:05Z"
   },
   {
    "mmsi": "352001682",
@@ -827,12 +775,12 @@
    "imo": "9745689",
    "destino": "BUENOS AIRES",
    "eta_ais": "31/08 10:00 UTC",
-   "lat": -34.61182,
-   "lon": -58.27525,
-   "velocidad": 1.8,
+   "lat": -34.60096,
+   "lon": -58.30847,
+   "velocidad": 2.5,
    "estado": "Navegando",
    "zona": "Río de la Plata",
-   "visto_utc": "2026-11-13T22:34:49Z"
+   "visto_utc": "2026-11-14T10:32:38Z"
   },
   {
    "mmsi": "701001304",
@@ -1095,6 +1043,19 @@
    "visto_utc": "2026-11-13T16:49:51Z"
   },
   {
+   "mmsi": "219542000",
+   "nombre": "MAERSK LABERINTO",
+   "imo": "9526978",
+   "destino": "UYMVD>ARBUE",
+   "eta_ais": "14/11 10:00 UTC",
+   "lat": -34.59762,
+   "lon": -58.33109,
+   "velocidad": 7.6,
+   "estado": "Navegando",
+   "zona": "Río de la Plata",
+   "visto_utc": "2026-11-14T10:30:56Z"
+  },
+  {
    "mmsi": "701000830",
    "nombre": "MAR  ESMERALDA",
    "imo": "",
@@ -1173,6 +1134,19 @@
    "visto_utc": "2026-11-14T00:08:53Z"
   },
   {
+   "mmsi": "253662000",
+   "nombre": "ORTELIUS",
+   "imo": "",
+   "destino": "",
+   "eta_ais": "",
+   "lat": -34.57317,
+   "lon": -58.38233,
+   "velocidad": 0,
+   "estado": "8",
+   "zona": "Río de la Plata",
+   "visto_utc": "2026-11-14T10:37:59Z"
+  },
+  {
    "mmsi": "755002729",
    "nombre": "PAPU NORTE",
    "imo": "",
@@ -1191,12 +1165,12 @@
    "imo": "1053573",
    "destino": "AR BUENOS AIRES",
    "eta_ais": "13/11 07:00 UTC",
-   "lat": -34.64108,
-   "lon": -58.34366,
+   "lat": -34.64104,
+   "lon": -58.34365,
    "velocidad": 0,
    "estado": "Amarrado",
    "zona": "Río de la Plata",
-   "visto_utc": "2026-11-14T05:41:24Z"
+   "visto_utc": "2026-11-14T10:32:06Z"
   },
   {
    "mmsi": "701000691",
@@ -1379,19 +1353,6 @@
    "estado": "Navegando",
    "zona": "San Lorenzo / Timbúes",
    "visto_utc": "2026-11-13T15:38:30Z"
-  },
-  {
-   "mmsi": "268266701",
-   "nombre": "AMIRA HANA",
-   "imo": "9400942",
-   "destino": "LYBIA",
-   "eta_ais": "05/12 14:00 UTC",
-   "lat": -32.79932,
-   "lon": -60.70479,
-   "velocidad": 11.1,
-   "estado": "Navegando",
-   "zona": "San Lorenzo / Timbúes",
-   "visto_utc": "2026-11-11T10:32:35Z"
   },
   {
    "mmsi": "701006297",
